@@ -1,0 +1,1 @@
+﻿Performed customer base audit using Excel by applying decile analysis, cohort tracking, and yearly revenue summaries. Evaluated customer retention, transaction patterns, revenue concentration, and long-term customer value across different customer groups and acquisition periods.
